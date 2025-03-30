@@ -1,6 +1,6 @@
 # [README checklist](https://github.com/ddbeck/readme-checklist)
 
-by [Daniel D. Beck](https://twitter.com/ddbeck)
+by [Daniel D. Beck](https://ddbeck.com/)
 
 [checklist.md](checklist.md) is a checklist to help you write a README file
 that helps readers feel confident about your project. If you write a README by

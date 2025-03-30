@@ -182,4 +182,6 @@ See [README.md](README.md) to learn how to use this checklist.
 
 * **Set a reminder to review your README and this checklist in a few weeks**.
 
-* **Tell [ddbeck](https://github.com/ddbeck/) that you used this checklist.** You can [tweet at him](https://twitter.com/ddbeck/) or open an issue on [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist/issues).
+* **Tell [ddbeck](https://ddbeck.com/) that you used this checklist.**
+  You can [comment on issue #8](https://github.com/ddbeck/readme-checklist/issues/8) or post at him on social networks ([Mastodon](https://mastodon.social/@ddbeck), [Bluesky](https://bsky.app/profile/ddbeck.com), [LinkedIn](https://www.linkedin.com/in/ddbeck/)).
+  And if you want more tech writing tools like this, then [subscribe to Daniel's newsletter](https://ddbeck.com/newsletter/).
